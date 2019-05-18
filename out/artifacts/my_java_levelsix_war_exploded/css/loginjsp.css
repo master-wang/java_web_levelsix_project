@@ -1,0 +1,22 @@
+body,html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("/imgs/login_dy.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+#box{
+    width: 500px;
+    height: 500px;
+    margin-left: 38%;
+    margin-top: 100px;
+    box-shadow: 0 0 20px #ccc;
+    padding: 30px;
+}
+#title{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}

@@ -1,0 +1,64 @@
+body{
+    background-image: url("/imgs/index_by.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+#top{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+}
+#moddle{
+    margin-top: 20px;
+    width: 100%;
+    height: 800px;
+}
+#moddle #userInfo{
+    float: left;
+    width: 400px;
+    height: 500px;
+    margin-left: 200px;
+}
+#moddle .sixinfo{
+    float: left;
+    margin-left: 100px;
+    width: 600px;
+    height: 700px;
+    overflow-y: scroll;
+}
+#moddle .sixinfo::-webkit-scrollbar {display:none}
+#moddle .ticketnumber{
+    float: left;
+    margin-left: 50px;
+    width:300px;
+    height: 100px;
+    text-align: center;
+}
+#footer{
+    text-align: center;
+    line-height: 100px;
+    color: white;
+    margin-top: 20px;
+    width: 100%;
+    height: 100px;
+    background: #5e5e5e;
+}
+#UserIofo label{
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    text-align: left;
+}
+#UserIofo label span{
+    float: left;
+    text-align: right;
+    width: 130px;
+    height: 30px;
+}
+.denglu img{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}

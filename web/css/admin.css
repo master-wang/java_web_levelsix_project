@@ -1,0 +1,39 @@
+body{
+    background-image: url("/imgs/adminby.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.top{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    line-height: 300px;
+}
+.top h1{
+    margin-top: 100px;
+}
+.main{
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    padding-top: 80px;
+}
+.main .nav{
+    width: 600px;
+    height: 500px;
+    margin-left: 35%;
+}
+.menu{
+    width: 280px;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 250px;
+    line-height: 250px;
+    float: left;
+    background: rgba(1,11,1,0.5);
+}
+.menu button{
+    width: 246px;
+    margin-top: 50px;
+    height: 122px;
+}
